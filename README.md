@@ -8,7 +8,7 @@
 
 Our Donation example enables to forward money to an account while keeping track of it. It is one of the simplest examples on making a contract receive and send money.
 
-![](https://docs.near.org/assets/images/donation-7cf65e5e131274fd1ae9aa34bc465bb8.png)
+![](https://drive.google.com/file/d/1aETH5pwmlCYu2qsZCJnX0_AlC3WokBAe/view?usp=sharing)
 
 
 # What This Example Shows

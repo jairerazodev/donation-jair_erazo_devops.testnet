@@ -5545,7 +5545,7 @@
 101/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/operator/repeat.d.ts1664314464255194570 0
 109/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/src/operators/subscribeOn.ts1664314464347194564 0
 120/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/_esm5/internal/operators/toArray.js.map1664314463663194608 0
-44/workspace/donation-js/frontend/node_modules1664314746739176482 1
+44/workspace/donation-js/frontend/node_modules1664317135123021080 1
 113/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/_esm5/internal/util/isNumeric.js1664314462235194699 0
 80/workspace/donation-js/frontend/node_modules/@ledgerhq/errors/lib/index.d.ts.map1664314457955194972 0
 111/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/internal/util/Immediate.js.map1664314463215194636 0
@@ -7471,7 +7471,7 @@
 88/workspace/donation-js/frontend/node_modules/rxjs/src/internal/operators/debounceTime.ts1664314463623194610 0
 109/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/src/operator/debounceTime.ts1664314463923194591 0
 127/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/_esm5/internal/util/ObjectUnsubscribedError.js1664314462371194690 0
-62/workspace/donation-js/frontend/node_modules/@msgpackr-extract1664314746739176482 1
+62/workspace/donation-js/frontend/node_modules/@msgpackr-extract1664317135123021080 1
 100/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/operator/retry.d.ts1664314464267194569 0
 99/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/BehaviorSubject.js1664314460759194794 0
 72/workspace/donation-js/frontend/node_modules/rxjs/src/internal/config.ts1664314463615194611 0
@@ -7498,7 +7498,7 @@
 119/workspace/donation-js/frontend/node_modules/@meteorwallet/sdk/dist/meteor-sdk/src/near-schema/TransactionSchema.js.map1664314460911194783 0
 94/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/_esm2015/ajax1664314463215194636 1
 94/workspace/donation-js/frontend/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js1664314460327194821 0
-50/workspace/donation-js/frontend/node_modules/@lmdb1664314746739176482 1
+50/workspace/donation-js/frontend/node_modules/@lmdb1664317135123021080 1
 118/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/_esm2015/internal/scheduler/Action.js1664314456735195050 0
 76/workspace/donation-js/frontend/node_modules/lightningcss/node/index.js.flow1664314457735194986 0
 135/workspace/donation-js/frontend/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-no-engines/package.json1664314461963194717 0
@@ -9436,7 +9436,7 @@
 119/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/internal/testing/ColdObservable.js.map1664314463023194648 0
 96/workspace/donation-js/frontend/node_modules/caniuse-lite/data/features/link-rel-dns-prefetch.js1664314462215194701 0
 115/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/_esm5/internal/operators/sample.js1664314462607194675 0
-63/workspace/donation-js/frontend/node_modules/.package-lock.json1664314746863176474 0
+63/workspace/donation-js/frontend/node_modules/.package-lock.json1664317135231021072 0
 117/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/internal/testing/ColdObservable.d.ts1664314463847194596 0
 114/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/internal/testing/TestMessage.d.ts1664314464411194560 0
 120/workspace/donation-js/frontend/node_modules/@ledgerhq/devices/node_modules/rxjs/operator/distinctUntilKeyChanged.js.map1664314463107194643 0
@@ -11812,7 +11812,7 @@
 88/workspace/donation-js/frontend/node_modules/@parcel/transformer-svg/src/dependencies.js1664314457967194971 0
 81/workspace/donation-js/frontend/node_modules/@parcel/transformer-svg/package.json1664314458367194946 0
 96/workspace/donation-js/frontend/node_modules/rxjs/dist/types/internal/operators/exhaust.d.ts.map1664314462959194652 0
-49/workspace/donation-js/frontend/package-lock.json1664314746831176477 0
+49/workspace/donation-js/frontend/package-lock.json1664317135199021074 0
 71/workspace/donation-js/frontend/node_modules/@parcel/node-resolver-core1664314461635194737 1
 84/workspace/donation-js/frontend/node_modules/@parcel/node-resolver-core/node_modules1664314465427194494 1
 75/workspace/donation-js/frontend/node_modules/cosmiconfig/dist/readFile.d.ts1664314459475194875 0
